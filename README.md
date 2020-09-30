@@ -16,5 +16,5 @@
 
 ## To Do:
 
-    [] Add MultiThreading to process faster
-    [] Depth Control
+    - [ ] Add MultiThreading to process faster
+    - [ ] Depth Control
