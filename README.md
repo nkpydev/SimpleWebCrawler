@@ -22,9 +22,9 @@
 
 ## To Do:
 
- - [x] Finish my changes
  - [ ] Add MultiThreading to process faster
  - [ ] Depth Control
+ - [ ] Store in Database
 
 
 ## Author: 
