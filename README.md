@@ -16,10 +16,19 @@
 
 ### How to run:
 
-''''shell
-python crawler.py
-''''
+    
+    python crawler.py
+
+
 ## To Do:
 
-    - [] Add MultiThreading to process faster
-    - [] Depth Control
+    -[] Add MultiThreading to process faster
+    -[] Depth Control
+
+
+## Author: 
+[nkpydev](https://github.com/nkpydev)
+
+
+## License:
+[MIT](https://github.com/nkpydev/SimpleWebCrawler/blob/master/LICENSE)
