@@ -16,9 +16,9 @@
 
 ### How to run:
 
-'''shell
+''''shell
 python crawler.py
-'''
+''''
 ## To Do:
 
     - [] Add MultiThreading to process faster
