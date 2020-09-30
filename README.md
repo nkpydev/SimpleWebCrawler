@@ -14,6 +14,11 @@
     - URL should not ending with /
     - URL should not be a # link
 
+### How to run:
+
+'''shell
+python crawler.py
+'''
 ## To Do:
 
     - [] Add MultiThreading to process faster
