@@ -8,13 +8,13 @@
     - Loop until To_Visit has no more records
     - Visited - will be end result with all Unique records of Links from Target URL
 
-### Other Logics required:
+## Other Logics required:
 
     - URL should not be a static resource, e.g. image link, css link or JavaScript link
     - URL should not ending with /
     - URL should not be a # link
 
-### How to run:
+## How to run:
 
     
     python crawler.py
@@ -22,8 +22,8 @@
 
 ## To Do:
 
-    -[] Add MultiThreading to process faster
-    -[] Depth Control
+    -[ ] Add MultiThreading to process faster
+    -[ ] Depth Control
 
 
 ## Author: 
